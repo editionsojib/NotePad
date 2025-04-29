@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="title">Title..</string>
+    <string name="message">Message..</string>
+    <string name="add_notes">Add Notes..</string>
+
+
+    <string name="text_message">
+        Bangladesh, officially the People\'s Republic of Bangladesh, is a country in South Asia. It is the eighth-most populous country in the world and among the most densely populated with a population of over 171 million within an area of 148,460 square kilometres (57,320 sq mi). Bangladesh shares land borders with India to the north, west, and east, and Myanmar to the
+    </string>
+    <string name="fav_description">fav_description</string>
+    <string name="update_note">Update Note...</string>
+</resources>
